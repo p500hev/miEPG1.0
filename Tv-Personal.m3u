@@ -58,7 +58,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_la
 #EXTINF:-1 group-title="Tv-Personal", MX: MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 group-title="Tv-Personal", MX: AZTECA 7
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" group-title="Tv-Personal", MX: AZTECA 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Tv-Personal", MX: AZTECA 7 1
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
