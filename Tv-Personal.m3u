@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" tvg-logo="https://static.epg.best/cl/13C.cl.png" tvg-chno="2" channel-id="2" group-title="Tv-Personal",13C
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" tvg-logo="https://static.epg.best/cl/13C.cl.png" tvg-chno="2" channel-id="2" group-title="News",13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Antofagasta TV" tvg-logo="https://i.ibb.co/KrFwfLC/Antofagastatv.png" tvg-chno="16" channel-id="16" group-title="Tv-Personal",Antofagasta TV
@@ -18,130 +18,132 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13 Festival" tvg-logo="https://i.ibb.co/db11bwk/Canal13.png" tvg-chno="4" channel-id="4" group-title="Tv-Personal",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CHV Noticias" tvg-logo="https://i.ibb.co/P5nh0Xt/CHV.png" tvg-chno="31" channel-id="31" group-title="Tv-Personal",CHV Noticias
+#EXTINF:-1 tvg-id="Chilevision.(CHILEV).cl" tvg-name="CHV Noticias" tvg-logo="https://i.ibb.co/P5nh0Xt/CHV.png" tvg-chno="31" channel-id="31" group-title="News",CHV Noticias
 https://ythls.armelin.one/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Meganoticias Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/922px-Meganoticias2019.png" tvg-chno="46" channel-id="46" group-title="Tv-Personal",Meganoticias CH
+#EXTINF:-1 tvg-id="Mega.HDTV.(MEGAHD).cl" tvg-name="Meganoticias Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/922px-Meganoticias2019.png" tvg-chno="46" channel-id="46" group-title="News",Meganoticias CH
 https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://static.epg.best/cl/Mega.cl.png" tvg-chno="45" channel-id="45" group-title="Tv-Personal",Mega
+#EXTINF:-1 tvg-id="Mega.HDTV.(MEGAHD).cl" tvg-name="Mega" tvg-logo="https://static.epg.best/cl/Mega.cl.png" tvg-chno="45" channel-id="45" group-title="News",Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="Milenio Television" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" tvg-chno="48" channel-id="48" group-title="Tv-Personal",Milenio Television
+
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="Milenio Television" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" tvg-chno="48" channel-id="48" group-title="News",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://static.epg.best/cl/TVN.cl.png" tvg-chno="55" channel-id="55" group-title="Tv-Personal",TVN
+#EXTINF:-1 tvg-id="TVN.-.Television.Nacional.de.Chile.3.HDTV.(Chile).(TVN3).cl" tvg-name="TVN" tvg-logo="https://static.epg.best/cl/TVN.cl.png" tvg-chno="55" channel-id="55" group-title="News",TVN
 https://panel.miplay.cl:8081/tvn/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV" tvg-logo="https://static.epg.best/cl/TVPlus.cl.png" tvg-chno="57" channel-id="57" group-title="Tv-Personal",TV
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MyTime Movie Network" tvg-logo="https://i.ibb.co/yfMQQMn/Mytime-Movie-Network.png" tvg-chno="49" channel-id="49" group-title="Tv-Personal",MyTime Movie Network
+#EXTINF:-1 tvg-id="" tvg-name="MyTime Movie Network" tvg-logo="https://i.ibb.co/yfMQQMn/Mytime-Movie-Network.png" tvg-chno="49" channel-id="49" group-title="Tv-Personal", MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="Tv-Personal", MX: AZTECA UNO
+#EXTINF:-1 tvg-id="Azteca.(XHOR).mx" group-title="Tv-Personal", MX: AZTECA UNO 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="Tv-Personal", MX: AZTECA UNO -1 HR
+
+#EXTINF:-1 tvg-id="Azteca.(XHOR).mx" group-title="Tv-Personal", MX: AZTECA UNO -1 HR
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
-#EXTINF:-1 group-title="Tv-Personal", MX: AZTECA INTERNACIONAL
+
+#EXTINF:-1 tvg-id="Canal.TV.Azteca.Mundo.mx" group-title="Tv-Personal", MX: AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 group-title="Tv-Personal", MX: LAS ESTRELLAS
+
+#EXTINF:-1 tvg-id="XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx" group-title="Tv-Personal", MX: LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-
-#EXTINF:-1 group-title="Tv-Personal", MX: MULTIMEDIOS TELEDIARIO NOW
+#EXTINF:-1 tvg-id="Multimedios.12.(XHAW).mx" group-title="News", MX: MULTIMEDIOS TELEDIARIO NOW
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=3dafe10496907bcf3d5a3415a3135845&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=mx&country_region=mexico%20city&postal_code=07890&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252ftelediario-now&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1726015280&id=69276&ip=2806%3A2f0%3Aa2a0%3Afb1d%3A7121%3A79d4%3Ac454%3A16ac&override_expiration=1500&deliveryProfileId=23762&sign=1MztDmTEi0FHwHXT9qSFpZNa08kwr6CgtXl8ZbK0rIs%3D
-#EXTINF:-1 group-title="Tv-Personal", MX: MULTIMEDIOS CDMX
+
+#EXTINF:-1 tvg-id="Multimedios.(XHNAT).mx" group-title="News", MX: MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" group-title="Tv-Personal", MX: AZTECA 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Tv-Personal", MX: AZTECA 7 1
+
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" group-title="Tv-Personal", MX: AZTECA 7 1
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Tv-Personal", MX: AZTECA 7 2
+
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" group-title="Tv-Personal", MX: AZTECA 7 2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="Tv-Personal", MX: AZTECA 7 3
+
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" group-title="Tv-Personal", MX: AZTECA 7 3
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Tv-Personal", MX: ADN 40
+
+#EXTINF:-1 tvg-id="" group-title="News", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1  group-title="Tv-Personal", MX: A+
+
+#EXTINF:-1 tvg-id="" group-title="News", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1  group-title="Tv-Personal", MX: MVS
+
+#EXTINF:-1 tvg-id="MVStv.(Mexico).(MVSTV).mx" group-title="News", MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 group-title="Tv-Personal", MX: MILENIO
+
+#EXTINF:-1 tvg-id="" group-title="News", MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-
-******************************************************     Tv-Personal US     *************************************************************************
-
-#EXTINF:-1 group-title="Tv-Personal US", US: CANAL 57
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal US", US: CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="Tv-Personal US", US: CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-
-#EXTINF:-1 group-title="Tv-Personal Latino", PR: TELEMUNDO
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal Latino", PR: TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="Tv-Personal Latino", PR: PUNTO 2
+
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal Latino", PR: PUNTO 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 group-title="Tv-Personal Latino", GT: TV AZTECA GUATE
+
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal Latino", GT: TV AZTECA GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 group-title="Tv-Personal Latino", HN: CTV INTERNACIONAL
+
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal Latino", HN: CTV INTERNACIONAL
 https://mediacp.us:8081/ctvhn/index.m3u8
 
-#EXTINF:-1 group-title="Tv-Personal Latino", EC: ECUADOR TV
+#EXTINF:-1 tvg-id="Ecuador.TV.National.(ECUATV)..ec" group-title="Tv-Personal Latino", EC: ECUADOR TV
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Tv-Personal Latino", BO: CANAL 7.1
+
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal Latino", BO: CANAL 7.1
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
-#EXTINF:-1 group-title="Tv-Personal Latino", BO: CANAL 7.2 DEPORTES
+
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal Latino", BO: CANAL 7.2 DEPORTES
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
-#EXTINF:-1 group-title="Tv-Personal Latino", BO: BOLIVISION
+
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal Latino", BO: BOLIVISION
 https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
-#EXTINF:-1 group-title="Tv-Personal Latino", VE: VPI TV
+
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal Latino", VE: VPI TV
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
-#EXTINF:-1 group-title="Tv-Personal Latino", VE: TELESUR
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal Latino", VE: TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
-****** 01 *****
-
-#EXTINF:-1 group-title="Tv-Personal US", US: UNIVISION
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal US", US: UNIVISION
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
-#EXTINF:-1 group-title="Tv-Personal US", US: PARAMOUNT NETWORK
+
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal US", US: PARAMOUNT NETWORK
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129938.m3u8
 
-
-******************
-
-**** CODERX24 *****
-#EXTINF:-1 group-title="Tv-Personal US", US: TELEMUNDO
+#EXTINF:-1 tvg-id="Telemundo.Network.(East).(TELMUN).us" group-title="Tv-Personal US", US: TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
-******************
 
-****** 03 *****
-#EXTINF:-1 group-title="Tv-Personal US", US: TELEMUNDO
+#EXTINF:-1 tvg-id="Telemundo.Network.(West).(TELMUN).us" group-title="Tv-Personal US", US: TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 group-title="Tv-Personal US", US: UNIVISION
+
+#EXTINF:-1 tvg-id="Univision.Network.HDTV.(UNIHD).us" group-title="Tv-Personal US", US: UNIVISION
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 
-#EXTINF:-1 group-title="Tv-Personal Latino", SV: CANAL 12
+#EXTINF:-1 tvg-id="" group-title="Tv-Personal Latino", SV: CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-******************
-
-****** 05 ******
-#EXTINF:-1 group-title="Tv-Personal US", US: UNIVISION 
+#EXTINF:-1 tvg-id="UnivisiÃ³n.tlnovelas.(TLNOV).us" group-title="Tv-Personal US", US: UNIVISION 
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
-#EXTINF:-1 group-title="Tv-Personal US", US: UNIVISION 
+
+#EXTINF:-1 tvg-id="UnivisiÃ³n.tlnovelas.(TLNOV).us" group-title="Tv-Personal US", US: UNIVISION 
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.ts
 
-#EXTINF:-1 group-title="Tv-Personal US", US: UNIMAS
+#EXTINF:-1 tvg-id="UnivisiÃ³n.tlnovelas.(TLNOV).us" group-title="Tv-Personal US", US: UNIMAS
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
-#EXTINF:-1 group-title="Tv-Personal US", US: TELEMUNDO 51 MIAMI
+
+#EXTINF:-1 tvg-id="Telemundo.Network.(West).(TELMUN).us" group-title="Tv-Personal US", US: TELEMUNDO 51 MIAMI
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-******************
 
