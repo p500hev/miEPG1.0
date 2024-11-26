@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-id="Canal.13.HDTV.(Chile).(CNL13HD).cl" tvg-name="13C" tvg-logo="https://static.epg.best/cl/13C.cl.png" tvg-chno="2" channel-id="2" group-title="Tv-Chile", 13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Antofagasta TV" tvg-logo="https://i.ibb.co/KrFwfLC/Antofagastatv.png" tvg-chno="16" channel-id="16" group-title="Tv-Chile", Antofagasta TV
-https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TMN TV" tvg-logo="https://i.ibb.co/nnZ5zM6/Tmn-Tv-Chile.png" tvg-chno="52" channel-id="52" group-title="Tv-Chile", TMN TV
-https://v1.tustreaming.cl/tmntv/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="13E" tvg-logo="https://i.ibb.co/db11bwk/Canal13.png" tvg-chno="3" channel-id="3" group-title="Tv-Chile", 13E
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 
@@ -27,23 +21,14 @@ https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 #EXTINF:-1 tvg-id="Mega.HDTV.(MEGAHD).cl" tvg-name="Mega" tvg-logo="https://static.epg.best/cl/Mega.cl.png" tvg-chno="45" channel-id="45" group-title="Tv-Chile", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="Milenio Television" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" tvg-chno="48" channel-id="48" group-title="Tv-Mexico", Milenio Television
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
 #EXTINF:-1 tvg-id="TVN.-.Television.Nacional.de.Chile.3.HDTV.(Chile).(TVN3).cl" tvg-name="TVN" tvg-logo="https://static.epg.best/cl/TVN.cl.png" tvg-chno="55" channel-id="55" group-title="Tv-Chile", TVN
 https://panel.miplay.cl:8081/tvn/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV" tvg-logo="https://static.epg.best/cl/TVPlus.cl.png" tvg-chno="57" channel-id="57" group-title="Tv-Chile", TV Plus
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MyTime Movie Network" tvg-logo="https://i.ibb.co/yfMQQMn/Mytime-Movie-Network.png" tvg-chno="49" channel-id="49" group-title="Tv-Personal", MyTime Movie Network
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Azteca.(XHOR).mx" group-title="Tv-Mexico", AZTECA UNO 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
-#EXTINF:-1 tvg-id="Azteca.(XHOR).mx" group-title="Tv-Mexico", AZTECA UNO -1HR
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 
 #EXTINF:-1 tvg-id="Canal.TV.Azteca.Mundo.mx" group-title="Tv-Mexico", AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -65,9 +50,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tv-Series",CSI: Miami en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506
-
-#EXTINF:-1 tvg-id="" group-title="Tv-Mexico", ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tv-Series",CSI: NY en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285536-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fe6859ac-2fe0-4cfe-aa7f-b5f343d25841
@@ -92,65 +74,15 @@ https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Canales de Animacion", MAX Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVToonsClasicoSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Toons ClÃ¡sico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="Canales de Musica", Retro TV | SD
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="389" tvg-name="Radio Fantasia TV" tvg-logo="https://www.m3u.cl/logo/389_Radio_Fantasia_TV.png", Radio Fantasia TV  | CL
-https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png", Retro Music Television  | CZ
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg", Pequeradio TV  | ES
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" group-title="Tv-Mexico", MILENIO
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Tv-US", CANAL 57
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Tv-US", PR: TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="Ecuador.TV.National.(ECUATV)..ec" group-title="Tv-Ecuador", ECUADOR TV
-https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Tv-Bolivia", CANAL 7.1
-https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Tv-Bolivia", BOLIVISION
-https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Tv-Venezuela", VPI TV
-https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Tv-Venezuela", TELESUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Tv-US", UNIVISION
-http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Tv-US", PARAMOUNT NETWORK
-http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129938.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo.Network.(East).(TELMUN).us" group-title="Tv-US", TELEMUNDO-1
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo.Network.(West).(TELMUN).us" group-title="Tv-US", TELEMUNDO-2
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-
-#EXTINF:-1 tvg-id="Univision.Network.HDTV.(UNIHD).us" group-title="Tv-US", UNIVISION
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
-
-#EXTINF:-1 tvg-id="Canal.12.de.El.Salvador.sv" group-title="Tv-Salvador", CANAL 12
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo.Network.(West).(TELMUN).us" group-title="Tv-US", TELEMUNDO 51 MIAMI
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.Network.(West).(TELMUN).us" group-title="Tv-Co", Senal Colombia Tv
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
