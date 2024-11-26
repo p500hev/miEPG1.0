@@ -1,0 +1,65 @@
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#EXTINF:-1 channel-id="USBD7000017L" tvg-id="USBD7000017L" tvg-chno="3809" tvg-name="AMC en Español" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20240520T212739SQUARE.png" group-title="Latino", AMC en Español
+https://jmp2.uk/sam-USBD7000017L.m3u8
+#EXTINF:-1 channel-id="USBD1700015J1" tvg-id="USBD1700015J1" tvg-chno="3985" tvg-name="Aquí y Ahora" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20240528T020910SQUARE.png" group-title="Latino", Aquí y Ahora
+https://jmp2.uk/sam-USBD1700015J1.m3u8
+#EXTINF:-1 channel-id="USBD2700005KL" tvg-id="USBD2700005KL" tvg-chno="3970" tvg-name="Cine de Oro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20240625T011323SQUARE.png" group-title="Latino", Cine de Oro
+https://jmp2.uk/sam-USBD2700005KL.m3u8
+#EXTINF:-1 channel-id="USBD2500022U5" tvg-id="USBD2500022U5" tvg-chno="3965" tvg-name="Cine Retro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500022U5_20240520T212746SQUARE.png" group-title="Latino", Cine Retro
+https://jmp2.uk/sam-USBD2500022U5.m3u8
+#EXTINF:-1 channel-id="USBA3800001E0" tvg-id="USBA3800001E0" tvg-chno="3990" tvg-name="Cine Romantico" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800001E0_20241105T024238SQUARE.png" group-title="Latino", Cine Romantico
+https://jmp2.uk/sam-USBA3800001E0.m3u8
+#EXTINF:-1 channel-id="US2200001IY" tvg-id="US2200001IY" tvg-chno="3878" tvg-name="Curiosity Animales" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200001IY_20240910T003736SQUARE.png" group-title="Latino", Curiosity Animales
+https://jmp2.uk/sam-US2200001IY.m3u8
+#EXTINF:-1 channel-id="US22000020U" tvg-id="US22000020U" tvg-chno="3880" tvg-name="Curiosity Español" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US22000020U_20240910T003739SQUARE.png" group-title="Latino", Curiosity Español
+https://jmp2.uk/sam-US22000020U.m3u8
+#EXTINF:-1 channel-id="USBD700011RE" tvg-id="USBD700011RE" tvg-chno="1260" tvg-name="Gravitas Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20240520T222902SQUARE.png" group-title="Movies", Gravitas Movies
+https://jmp2.uk/sam-USBD700011RE.m3u8
+#EXTINF:-1 channel-id="USAK3508724A" tvg-id="USAK3508724A" tvg-chno="2114" tvg-name="Gusto TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508724A_20241105T024302SQUARE.png" group-title="Home & Food", Gusto TV
+https://jmp2.uk/sam-USAK3508724A.m3u8
+#EXTINF:-1 channel-id="US1300001GM" tvg-id="US1300001GM" tvg-chno="3805" tvg-name="Hallmark en Español" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300001GM_20241008T212643SQUARE.png" group-title="Latino", Hallmark en Español
+https://jmp2.uk/sam-US1300001GM.m3u8
+#EXTINF:-1 channel-id="US2600019IC" tvg-id="US2600019IC" tvg-chno="3810" tvg-name="Historia" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20241002T233733SQUARE.png" group-title="Latino", Historia
+https://jmp2.uk/sam-US2600019IC.m3u8
+#EXTINF:-1 channel-id="US18000163F" tvg-id="US18000163F" tvg-chno="1237" tvg-name="Miramax Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240716T002709SQUARE.png" group-title="Movies", Miramax Channel
+https://jmp2.uk/sam-US18000163F.m3u8
+#EXTINF:-1 channel-id="US3000005RS" tvg-id="US3000005RS" tvg-chno="3852" tvg-name="Noticias Telemundo Ahora" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000005RS_20241014T232258SQUARE.png" group-title="Latino", Noticias Telemundo Ahora
+https://jmp2.uk/sam-US3000005RS.m3u8
+#EXTINF:-1 channel-id="USBD1700014QU" tvg-id="USBD1700014QU" tvg-chno="3987" tvg-name="Noticias Univision 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20240520T212804SQUARE.png" group-title="Latino", Noticias Univision 24/7
+https://jmp2.uk/sam-USBD1700014QU.m3u8
+#EXTINF:-1 channel-id="USAJ3504719A" tvg-id="USAJ3504719A" tvg-chno="3890" tvg-name="Sony Canal Competencias" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20240709T002107SQUARE.png" group-title="Latino", Sony Canal Competencias
+https://jmp2.uk/sam-USAJ3504719A.m3u8
+#EXTINF:-1 channel-id="USBD35000180U" tvg-id="USBD35000180U" tvg-chno="4476" tvg-name="Stingray Classic Rock" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20240826T191200SQUARE.png" group-title="Music", Stingray Classic Rock
+https://jmp2.uk/sam-USBD35000180U.m3u8
+#EXTINF:-1 channel-id="USBD350002623" tvg-id="USBD350002623" tvg-chno="4462" tvg-name="Stingray Classica" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20241105T024159SQUARE.png" group-title="Music", Stingray Classica
+https://jmp2.uk/sam-USBD350002623.m3u8
+#EXTINF:-1 channel-id="USBD3500025GS" tvg-id="USBD3500025GS" tvg-chno="4456" tvg-name="Stingray DJAZZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240826T191202SQUARE.png" group-title="Music", Stingray DJAZZ
+https://jmp2.uk/sam-USBD3500025GS.m3u8
+#EXTINF:-1 channel-id="USBD3500011J3" tvg-id="USBD3500011J3" tvg-chno="4468" tvg-name="Stingray Easy Listening" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20240520T212830SQUARE.png" group-title="Music", Stingray Easy Listening
+https://jmp2.uk/sam-USBD3500011J3.m3u8
+#EXTINF:-1 channel-id="USBD3500008IJ" tvg-id="USBD3500008IJ" tvg-chno="4470" tvg-name="Stingray Flashback 70s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20240520T212832SQUARE.png" group-title="Music", Stingray Flashback 70s
+https://jmp2.uk/sam-USBD3500008IJ.m3u8
+#EXTINF:-1 channel-id="USBD3500010MT" tvg-id="USBD3500010MT" tvg-chno="4478" tvg-name="Stingray Hip Hop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20240520T212836SQUARE.png" group-title="Music", Stingray Hip Hop
+https://jmp2.uk/sam-USBD3500010MT.m3u8
+#EXTINF:-1 channel-id="USBD3500038R6" tvg-id="USBD3500038R6" tvg-chno="4570" tvg-name="Stingray Holidayscapes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="Ambiance", Stingray Holidayscapes
+https://jmp2.uk/sam-USBD3500038R6.m3u8
+#EXTINF:-1 channel-id="USBD3300021KV" tvg-id="USBD3300021KV" tvg-chno="4480" tvg-name="Stingray Hot Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20240826T191205SQUARE.png" group-title="Music", Stingray Hot Country
+https://jmp2.uk/sam-USBD3300021KV.m3u8
+#EXTINF:-1 channel-id="USAK3508705A" tvg-id="USAK3508705A" tvg-chno="4572" tvg-name="Stingray Naturescape" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png" group-title="Ambiance", Stingray Naturescape
+https://jmp2.uk/sam-USAK3508705A.m3u8
+#EXTINF:-1 channel-id="USBD35000149S" tvg-id="USBD35000149S" tvg-chno="4474" tvg-name="Stingray Nothin' But 90s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20240826T191209SQUARE.png" group-title="Music", Stingray Nothin' But 90s
+https://jmp2.uk/sam-USBD35000149S.m3u8
+#EXTINF:-1 channel-id="USBD3300022QK" tvg-id="USBD3300022QK" tvg-chno="4472" tvg-name="Stingray Remember the 80s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20240611T050303SQUARE.png" group-title="Music", Stingray Remember the 80s
+https://jmp2.uk/sam-USBD3300022QK.m3u8
+#EXTINF:-1 channel-id="USBD3500017CE" tvg-id="USBD3500017CE" tvg-chno="4466" tvg-name="Stingray Romance Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20240520T212846SQUARE.png" group-title="Music", Stingray Romance Latino
+https://jmp2.uk/sam-USBD3500017CE.m3u8
+#EXTINF:-1 channel-id="USBD35000128A" tvg-id="USBD35000128A" tvg-chno="4460" tvg-name="Stingray Smooth Jazz" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20240520T212848SQUARE.png" group-title="Music", Stingray Smooth Jazz
+https://jmp2.uk/sam-USBD35000128A.m3u8
+#EXTINF:-1 channel-id="USBD3500013DG" tvg-id="USBD3500013DG" tvg-chno="4580" tvg-name="Stingray Spa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="Ambiance", Stingray Spa
+https://jmp2.uk/sam-USBD3500013DG.m3u8
+#EXTINF:-1 channel-id="USBD3500016NH" tvg-id="USBD3500016NH" tvg-chno="4454" tvg-name="Stingray Today's K-Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20240520T212852SQUARE.png" group-title="Music", Stingray Today's K-Pop
+https://jmp2.uk/sam-USBD3500016NH.m3u8
+#EXTINF:-1 channel-id="USBD3500009Y3" tvg-id="USBD3500009Y3" tvg-chno="4464" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20240520T212854SQUARE.png" group-title="Music", Stingray Today's Latin Pop
+https://jmp2.uk/sam-USBD3500009Y3.m3u8
+#EXTINF:-1 channel-id="USBB3200016HO" tvg-id="USBB3200016HO" tvg-chno="3850" tvg-name="Telemundo Al Día" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200016HO_20241015T223521SQUARE.png" group-title="Latino", Telemundo Al Día
+https://jmp2.uk/sam-USBB3200016HO.m3u8
