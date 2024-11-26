@@ -18,9 +18,6 @@ https://ythls.armelin.one/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
 #EXTINF:-1 tvg-id="Mega.HDTV.(MEGAHD).cl" tvg-name="Meganoticias Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/922px-Meganoticias2019.png" tvg-chno="46" channel-id="46" group-title="Tv-Chile", Meganoticias CH
 https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 
-#EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV" tvg-logo="https://static.epg.best/cl/TVPlus.cl.png" tvg-chno="57" channel-id="57" group-title="Tv-Chile", TV Plus
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-
 #EXTINF:-1 tvg-id="810" tvg-name="Club TV" tvg-logo="https://www.m3u.cl/logo/810_Club_TV.png", Club TV  | CL
 https://paneltv.online:1936/8030/8030/playlist.m3u8?PlaylistM3UCL
 
@@ -29,8 +26,6 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://www.m3u.cl/logo/54_UCV.png", UCV  | CL
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="327" tvg-name="AmÃ©rica TV Chile" tvg-logo="https://www.m3u.cl/logo/327_America_TV_Chile.png", America TV Chile  | CL
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="TV-Series",AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
