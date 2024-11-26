@@ -1,0 +1,238 @@
+#EXTM3U
+
+# INFANTIL
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/crntnn.png?raw=true" group-title="Infantil",Cartoon Network
+http://tv.teleclub.xyz/club/server_2/infantil/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/crntnn.png?raw=true" group-title="Infantil",Cartoon Network - !3
+http://tv.teleclub.xyz/club/server_3/infantil/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Infantil",Cartoonito
+http://tv.teleclub.xyz/club/server_2/infantil/cartoonito/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Infantil",Discovery Kids
+http://tv.teleclub.xyz/club/server_2/infantil/discoverykids/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Infantil",Discovery Kids - !3
+http://tv.teleclub.xyz/club/server_3/infantil/discoverykids/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil",Disney Channel
+http://tv.teleclub.xyz/club/server_2/infantil/disneychannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil",Disney Channel - !3
+http://tv.teleclub.xyz/club/server_3/infantil/disneychannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil",Disney JR
+http://tv.teleclub.xyz/club/server_2/infantil/disneyjr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/EnerGeek_Retro.png?raw=true" group-title="Infantil",EnerGeek Retro !Ex
+http://tv.teleclub.xyz/club/server_url/infantil/energeekretro/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/FanpopTV.png?raw=true" group-title="Infantil",Fanpop TV !Ex
+http://tv.teleclub.xyz/club/server_url/infantil/fanpoptv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/nckn.png?raw=true" group-title="Infantil",Nick
+http://tv.teleclub.xyz/club/server_2/infantil/nick/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil",Tooncast
+http://tv.teleclub.xyz/club/server_2/infantil/tooncast/index.m3u8
+
+# CULTURA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura",Animal Planet
+http://tv.teleclub.xyz/club/server_2/cultura/animalplanet/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/did.png?raw=true" group-title="Cultura",Disccovery ID
+http://tv.teleclub.xyz/club/server_2/cultura/disccoveryid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura",Discovery Channel
+http://tv.teleclub.xyz/club/server_2/cultura/discoverychannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dfamilia.png?raw=true" group-title="Cultura",Discovery Familia
+http://tv.teleclub.xyz/club/server_2/cultura/discoveryfamilia/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura",Discovery H&H
+http://tv.teleclub.xyz/club/server_2/cultura/discoveryh_h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura",Discovery Science
+http://tv.teleclub.xyz/club/server_2/cultura/discoveryscience/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura",Discovery Theater
+http://tv.teleclub.xyz/club/server_2/cultura/discoverytheater/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura",Discovery Turbo
+http://tv.teleclub.xyz/club/server_2/cultura/discoveryturbo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura",Discovery World
+http://tv.teleclub.xyz/club/server_2/cultura/discoveryworld/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Cultura",El Gourmet
+http://tv.teleclub.xyz/club/server_2/cultura/elgourmet/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura",H2
+http://tv.teleclub.xyz/club/server_2/cultura/history2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura",History
+http://tv.teleclub.xyz/club/server_2/cultura/history/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura",History - !3
+http://tv.teleclub.xyz/club/server_3/cultura/history/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/natge0mund.png?raw=true" group-title="Cultura",NatGeo Mundo
+http://tv.teleclub.xyz/club/server_2/cultura/natgeomundo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura",National Geographic
+http://tv.teleclub.xyz/club/server_2/cultura/nationalgeographic/index.m3u8
+
+# ENTRETENIMIENTO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Entretenimiento",A&E
+http://tv.teleclub.xyz/club/server_2/entretenimiento/a_e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento",AMC
+http://tv.teleclub.xyz/club/server_2/entretenimiento/amc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento",AXN
+http://tv.teleclub.xyz/club/server_2/entretenimiento/axn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento",AXN - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/axn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true" group-title="Entretenimiento",Adult Swim
+http://tv.teleclub.xyz/club/server_2/entretenimiento/adultswim/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Entretenimiento",Cinecanal
+http://tv.teleclub.xyz/club/server_2/entretenimiento/cinecanal/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Entretenimiento",Cinecanal - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/cinecanal/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento",Cinemax
+http://tv.teleclub.xyz/club/server_2/entretenimiento/cinemax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento",Cinemax - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/cinemax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dhe_.png?raw=true" group-title="Entretenimiento",DHE
+http://tv.teleclub.xyz/club/server_2/entretenimiento/dhe/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dpeli.png?raw=true" group-title="Entretenimiento",De Pelicula
+http://tv.teleclub.xyz/club/server_2/entretenimiento/depelicula/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento",FX
+http://tv.teleclub.xyz/club/server_2/entretenimiento/fx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento",FX - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/fx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento",Golden
+http://tv.teleclub.xyz/club/server_2/entretenimiento/golden/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento",Golden - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/golden/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento",Golden Edge
+http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento",Golden Plus
+http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenplus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento",Golden Premier
+http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento",Golden Premier - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/goldenpremier/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento",Golden Premier 2
+http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento",HBO
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hbo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Entretenimiento",HBO 2
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hbo2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="Entretenimiento",HBO Family
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hbofamily/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="Entretenimiento",HBO Mundi
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hbomundi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="Entretenimiento",HBO Plus
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hboplus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="Entretenimiento",HBO Pop
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hbopop/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="Entretenimiento",HBO Signature
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hbosignature/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true" group-title="Entretenimiento",Multipremier
+http://tv.teleclub.xyz/club/server_2/entretenimiento/multipremier/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento",Paramount Network
+http://tv.teleclub.xyz/club/server_2/entretenimiento/paramountnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento",Sony
+http://tv.teleclub.xyz/club/server_2/entretenimiento/sony/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento",Sony - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/sony/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/son_cine.png?raw=true" group-title="Entretenimiento",Sony Cine
+http://tv.teleclub.xyz/club/server_2/entretenimiento/sonycine/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento",Space
+http://tv.teleclub.xyz/club/server_2/entretenimiento/space/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento",Space - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/space/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/str_action.png?raw=true" group-title="Entretenimiento",Star Action
+http://tv.teleclub.xyz/club/server_2/entretenimiento/staraction/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento",Star Channel
+http://tv.teleclub.xyz/club/server_2/entretenimiento/starchannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento",Star Channel - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/starchannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/str_series.png?raw=true" group-title="Entretenimiento",Star Series
+http://tv.teleclub.xyz/club/server_2/entretenimiento/starseries/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento",Studio Universal
+http://tv.teleclub.xyz/club/server_2/entretenimiento/studiouniversal/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento",Studio Universal - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/studiouniversal/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wmb5sIF.png" group-title="Entretenimiento",Syfy
+http://tv.teleclub.xyz/club/server_2/entretenimiento/syfy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Entretenimiento",TNT
+http://tv.teleclub.xyz/club/server_2/entretenimiento/tnt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento",TNT Series
+http://tv.teleclub.xyz/club/server_2/entretenimiento/tntseries/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento",TNT Series - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/tntseries/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/univer_cinem.png?raw=true" group-title="Entretenimiento",Universal Cinema
+http://tv.teleclub.xyz/club/server_2/entretenimiento/universalcinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png" group-title="Entretenimiento",Universal Premiere
+http://tv.teleclub.xyz/club/server_2/entretenimiento/universalpremiere/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento",Universal TV
+http://tv.teleclub.xyz/club/server_2/entretenimiento/universaltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento",Universal TV - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/universaltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento",Warner Channel
+http://tv.teleclub.xyz/club/server_2/entretenimiento/warnerchannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento",Warner Channel (México)
+http://tv.teleclub.xyz/club/server_2/entretenimiento/warnerchannelmexico/index.m3u8
