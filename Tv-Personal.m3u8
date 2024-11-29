@@ -1,49 +1,33 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="Canal.13.HDTV.(Chile).(CNL13HD).cl" tvg-name="13C" tvg-logo="https://static.epg.best/cl/13C.cl.png" tvg-chno="2" channel-id="2" group-title="Tv-Chile", 13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="13E" tvg-logo="https://i.ibb.co/db11bwk/Canal13.png" tvg-chno="3" channel-id="3" group-title="Tv-Chile", 13E
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="13 Realities" tvg-logo="" tvg-chno="8" channel-id="8" group-title="Tv-Chile", 13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="13 Festival" tvg-logo="https://i.ibb.co/db11bwk/Canal13.png" tvg-chno="4" channel-id="4" group-title="Tv-Chile", 13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-
 #EXTINF:-1 tvg-id="Chilevision.(CHILEV).cl" tvg-name="CHV Noticias" tvg-logo="https://i.ibb.co/P5nh0Xt/CHV.png" tvg-chno="31" channel-id="31" group-title="Tv-Chile", CHV Noticias
 https://ythls.armelin.one/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
-
 #EXTINF:-1 tvg-id="Mega.HDTV.(MEGAHD).cl" tvg-name="Meganoticias Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/922px-Meganoticias2019.png" tvg-chno="46" channel-id="46" group-title="Tv-Chile", Meganoticias CH
 https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
-
 #EXTINF:-1 tvg-id="810" tvg-name="Club TV" tvg-logo="https://www.m3u.cl/logo/810_Club_TV.png", Club TV  | CL
 https://paneltv.online:1936/8030/8030/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg", La Red | CL
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://www.m3u.cl/logo/54_UCV.png", UCV  | CL
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="TV-Series",AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
-
 #EXTINF:-1 tvg-id="CSIenespanol.us" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="Tv-Series",CSI en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tv-Series",CSI: Miami en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tv-Series",CSI: NY en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285536-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fe6859ac-2fe0-4cfe-aa7f-b5f343d25841
-
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Canales de Animacion", MAX Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-
 #EXTINF:-1 tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png", Retro Music Television  | CZ
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg", Pequeradio TV  | ES
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
